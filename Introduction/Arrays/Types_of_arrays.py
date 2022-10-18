@@ -4,7 +4,12 @@ import numpy as np
 arr = np.array(['Owenn', "Lynatte","Tylor"])
 print(arr)
 
-
+# 0D Array 
+arr0 = np.array(256)
+print(arr0)
+print("The dimension is ", arr0.ndim)
+print("The size of the array is ", arr0.size)
+print('The lenght of the arrays is', len(arr0))
 #  1D array  
 arr1 = np.array(["Joe", "Doe"])
 print(arr1)
