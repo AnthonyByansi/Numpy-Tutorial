@@ -1,0 +1,1 @@
+Python's core scientific computing library is called NumPy. Using a multidimensional array object is made possible by a Python package.
