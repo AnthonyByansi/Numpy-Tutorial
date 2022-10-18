@@ -30,3 +30,11 @@ print(arr3)
 print("Dimension is " , arr3.ndim)
 print("The size of the array is ", arr3.size)
 print("The length of the array is ",  len(arr3))
+
+# Define the number of arrays given a single array
+
+arrZ =  np.array([4, 6, 8, 10, 12], ndim=5)
+print(arrz)
+print('Number of dimensions are ',  arrz.ndim)
+print('The size of the array is ', arrz.size)
+print('The length  of the array is ' len(arr3))
