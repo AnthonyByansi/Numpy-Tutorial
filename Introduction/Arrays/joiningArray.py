@@ -5,7 +5,6 @@ N0TE:  in numpy we join aarrays using axes while in sql we join tables basing on
 We ACHIEVE THIS by using concatenation() function, by passing in a sequence of arrays
 
 """
-from typing import Concatenate
 import numpy as np 
 arr1 = np.array([2,4,5,6])
 arr2 = np,array([3,5,7])
