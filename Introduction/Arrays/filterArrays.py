@@ -15,7 +15,7 @@ print(re_arr)
 
 # creating array that will return only values higher tham a certain number e.g 10
 
-arr1 = np.array(2,4,8,10,12,14,16,18,20)
+arr1 = np.array([2,4,8,10,12,14,16,18,20])
 filter_arr1 = []
 
 for element in arr1:
