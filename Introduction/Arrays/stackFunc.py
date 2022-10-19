@@ -18,10 +18,11 @@ arrz = np.hstack((arr4, arr5), axis= 1)
 
 # stacking along columns, here we make use of vstack() function
 
-arr6 = np.vstack((arr4, arr5) axis=1)
+arr6 = np.vstack((arr4, arr5), axis=1)
 print(arrz)
 print(arr6)
 
 # stacking along height... here we use the dstack() function
-aarr4 = np.array([1,2,3])
-arr5 = np.array([23,33,45])
+
+arr7 = np.dstack((arr4, arr5))
+print(arr7)
