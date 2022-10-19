@@ -7,7 +7,7 @@ We ACHIEVE THIS by using concatenation() function, by passing in a sequence of a
 """
 import numpy as np 
 arr1 = np.array([2,4,5,6])
-arr2 = np,array([3,5,7])
+arr2 = np.array([3,5,7])
 
 arr3 = np.concatenate((arr1, arr2))
 print(arr3)
