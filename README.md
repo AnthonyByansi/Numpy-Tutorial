@@ -12,7 +12,8 @@ For performing sophisticated mathematical calculations, Python's NumPy external 
 
 This sets them apart from Python arrays. For mathematical operations, it ensures homogeneity, which is not achievable with heterogeneous materials. The fact that many different functions may be applied to NumPy arrays is another advantage of using these arrays.
 
-2. NumPy keeps very little memory.
+2.** NumPy keeps very little memory.**
+        In NumPy, arrays are objects. According to the needs, Python continually deletes and generates these objects. As a result, less memory is allocated than using Python lists. There are tools in NumPy to prevent memory leaks in the data buffer.
 
 
 
