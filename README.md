@@ -8,4 +8,10 @@ For performing sophisticated mathematical calculations, Python's NumPy external 
 
 Applications of Numpy 
 1. A Python substitute for lists and arrays
-        
+        In Numpy, arrays are what lists are in Python. The Numpy arrays are homogeneous sets of elements, similar to lists in Python. The fact that NumPy arrays are homogenous in nature is their key characteristic.
+
+This sets them apart from Python arrays. For mathematical operations, it ensures homogeneity, which is not achievable with heterogeneous materials. The fact that many different functions may be applied to NumPy arrays is another advantage of using these arrays.
+
+
+
+
