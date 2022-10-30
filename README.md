@@ -18,4 +18,10 @@ This sets them apart from Python arrays. For mathematical operations, it ensures
 
 
 
+3. Making multi-dimensional arrays with NumPy
+        In NumPy, we can also build multidimensional arrays. There are numerous rows and columns in these arrays. These arrays are multi-dimensional because they have more than one column. Matrix construction is implemented by multi-dimensional arrays.
+
+These matrices are easy to work with. With the use of matrices the code also becomes memory efficient. We have a matrix module to perform various operations on these matrices.
+
+
 
