@@ -29,6 +29,7 @@ This sets them apart from Python arrays. For mathematical operations, it ensures
 These matrices are easy to work with. With the use of matrices the code also becomes memory efficient. We have a matrix module to perform various operations on these matrices.
 
 4. **Mathematical operations with NumPy**
+                Additionally, using NumPy contains simple functions for performing mathematical operations on the array data set. Numerous modules are available in NumPy to perform both common and uncommon mathematical operations.
 
 
 
