@@ -17,7 +17,7 @@ This sets them apart from Python arrays. For mathematical operations, it ensures
 
 
 
-2. **NumPy keeps very little memory** 
+2. ### **NumPy keeps very little memory** 
         In NumPy, arrays are objects. According to the needs, Python continually deletes and generates these objects. As a result, less memory is allocated than using Python lists. There are tools in NumPy to prevent memory leaks in the data buffer.
         It has features like copies, views, and indexing that significantly reduce memory usage. Indexing makes it possible to reuse data by bringing up the original array's view. Additionally, it provides data type information for the elements, which results in code optimization.
 
